@@ -9,4 +9,5 @@ The aim of this project is to make a replicate of Zerodha.com
 
 
 ## Link
+Deployed on CodeSandbox.io
 https://7pldy.csb.app/about
